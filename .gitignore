@@ -1,0 +1,16 @@
+build
+.depend*
+.obj
+.shobj
+GNUmakefile*
+*~
+*.so
+*.so.*
+*.dylib
+node_modules
+setenv.sh
+node_opendds.sln
+src/*_or*
+.vs/
+.vscode
+node_opendds.VC.*
